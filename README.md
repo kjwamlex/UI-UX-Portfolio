@@ -26,7 +26,7 @@
 ![TapticMusic Music Player View](https://github.com/kjwamlex/UI-UX-Portfolio/blob/master/IMG_1724.PNG)
 ![](https://github.com/kjwamlex/UI-UX-Portfolio/blob/master/IMG_1739.jpeg)
 
-# UW Portal Redesign
+# UW Portal Redesign (under development)
 ![](https://github.com/kjwamlex/UI-UX-Portfolio/blob/master/IMG_1731.PNG)
 ![](https://github.com/kjwamlex/UI-UX-Portfolio/blob/master/IMG_1732.PNG)
 
